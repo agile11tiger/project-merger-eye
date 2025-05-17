@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EyE.ProjectMerger", "EyE.ProjectMerger\EyE.ProjectMerger.csproj", "{6688293A-775F-40DB-848A-735B8D117365}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6688293A-775F-40DB-848A-735B8D117365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6688293A-775F-40DB-848A-735B8D117365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6688293A-775F-40DB-848A-735B8D117365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6688293A-775F-40DB-848A-735B8D117365}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
